@@ -5,7 +5,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Tavinhuu)
 
 
-<i>Olá! Me chamo Gustavo Henrique, sou desenvolvedor Front-End, cursando Ciência da Computação na Universidade Católica de Brasília desde 2024
+<i>Olá! Me chamo Gustavo Henrique, sou desenvolvedor Fullstack, cursando Ciência da Computação na Universidade Católica de Brasília desde 2024
 
 Apaixonado por música e programação, tive meu primeiro contato com o desenvolvimento aos 12 anos, e desde então venho estudando e descobrindo cada vez mais.</i>
 
