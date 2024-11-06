@@ -1,5 +1,5 @@
 <h1><i>Gustavo Henrique</i></h1>
-<p><i>Frontend Developer & Designer</i></p>
+<p><i>Fullstack Developer & Designer</i></p>
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustaavoaraujjo9@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Tavinhuu)
