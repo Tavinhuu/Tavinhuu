@@ -7,7 +7,7 @@
 
 <i>Olá! Me chamo Gustavo Henrique, sou desenvolvedor Fullstack, cursando Ciência da Computação na Universidade Católica de Brasília desde 2024
 
-Apaixonado por música e programação, tive meu primeiro contato com o desenvolvimento aos 12 anos, e desde então venho estudando e descobrindo cada vez mais.</i>
+ Possuo habilidades em desenvolvimento Front-end e Back-end, UI/UX, JavaScript, Python. Busco desenvolver soluções inovadoras e eficazes para problemas reais, aprender e compartilhar conhecimento com a comunidade e construir uma carreira sólida em tecnologia. Estou ansioso para colaborar em projetos desafiadores e criar impacto positivo no mundo digital..</i>
 
 <h1><i>Linguagens e Tecnologias</i></h1>
 
