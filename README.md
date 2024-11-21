@@ -3,6 +3,7 @@
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustaavoaraujjo9@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Tavinhuu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-0a737229b/)
 
 
 <i>Olá! Me chamo Gustavo Henrique, sou desenvolvedor Fullstack, cursando Ciência da Computação na Universidade Católica de Brasília desde 2024
