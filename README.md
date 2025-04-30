@@ -1,6 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72424&width=435&lines=Gustavo+H+%7C+Desenvolvedor" alt="Typing SVG" /></a>
 <h1><i>Gustavo Henrique</i></h1>
-<p><i>Fullstack Developer & Designer</i></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=000000&width=435&lines=Fullstack+Dev+%26+Designer" alt="Typing SVG" /></a>
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustaavoaraujjo9@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Tavinhuu)
