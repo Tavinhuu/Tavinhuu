@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72424&width=435&lines=Gustavo+H+%7C+Desenvolvedor" alt="Typing SVG" /></a>
 <h1><i>Gustavo Henrique</i></h1>
 <p><i>Fullstack Developer & Designer</i></p>
 
