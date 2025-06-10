@@ -8,7 +8,7 @@
 
 <i>Olá! Me chamo Gustavo Henrique, sou desenvolvedor Fullstack, cursando Ciência da Computação na Universidade Católica de Brasília desde 2024
 
- Possuo habilidades em desenvolvimento Front-end e Back-end, UI/UX, JavaScript, Python. Busco desenvolver soluções inovadoras e eficazes para problemas reais, aprender e compartilhar conhecimento com a comunidade e construir uma carreira sólida em tecnologia. Estou ansioso para colaborar em projetos desafiadores e criar impacto positivo no mundo digital..</i>
+ Possuo habilidades em desenvolvimento Front-end e Back-end, UI/UX. Busco desenvolver soluções inovadoras e eficazes para problemas reais, aprender e compartilhar conhecimento com a comunidade e construir uma carreira sólida em tecnologia. Estou ansioso para colaborar em projetos desafiadores e criar impacto positivo no mundo digital..</i>
 
 <h1><i>Linguagens e Tecnologias</i></h1>
 
@@ -24,9 +24,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="logo"  />
 </div>
 
 ###
