@@ -18,6 +18,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo"  />
   <img width="12" />
+ <img src="https://skillicons.dev/icons?i=swift" height="30" alt="logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="logo"  />
