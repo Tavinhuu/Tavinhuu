@@ -29,6 +29,8 @@
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="logo"  />
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="logo"  />
 </div>
 
 ###
